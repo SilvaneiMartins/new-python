@@ -18,6 +18,18 @@ Bem-vindo ao nosso projeto NLW na linguagem Python! Este game, desenvolvido com 
     # Entre no Diretório:
     cd new-python
 
+    # criar ambiente virtual mac e linux:
+    $ python3 -m venv .venv
+
+    # criar ambiente virtual windows:
+    $ py -m venv .venv
+
+    # Ativar o ambiente virtual mac e linux:
+    $ source .venv/bin/activate
+
+    # Ativar o ambiente virtual windows:
+    $ .venv\Scripts\activate
+
     # Instale o python, acesso o site e instala a versão mais recente:
     $ https://www.python.org
 
