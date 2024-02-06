@@ -30,6 +30,9 @@ Bem-vindo ao nosso projeto NLW na linguagem Python! Este game, desenvolvido com 
     # Ativar o ambiente virtual windows:
     $ .venv\Scripts\activate
 
+    # Gerar arquivo requirements.tsx
+    $ .venv/bin/pip3 freeze > requirements.txt
+
     # Instale o python, acesso o site e instala a versão mais recente:
     $ https://www.python.org
 
